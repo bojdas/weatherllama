@@ -1,2 +1,2 @@
 # weatherllama
-This is an experimental project exploring langchain and ollama.
+This is a small project exploring langchain and ollama.
